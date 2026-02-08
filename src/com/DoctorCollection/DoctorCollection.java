@@ -86,7 +86,7 @@ public class DoctorCollection {
         for (Doctor d : doc) {
             if (d.getFirtName().equals(name)) {
                 d.setDoctorId(id);
-                d.setFirtName(name);
+                d.setFirstName(name);
                 d.setLastName(lname);
                 d.setSpecialistaion(spc);
                 System.out.println("Doctor modified successfully.");

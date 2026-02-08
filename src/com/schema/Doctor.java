@@ -19,7 +19,7 @@ public class Doctor {
         return firstName;
     }
 
-    public void setFirtName(String firtName) {
+    public void setFirstName(String firtName) {
         this.firstName = firtName;
     }
 
